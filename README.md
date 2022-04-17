@@ -1,6 +1,6 @@
-# Webscrapping Github topics :
+# Webscraping Github topics :
 
-## This is my first basic webscrapping project in which I used the Request and Beautiful Soup libraries to scrape Github!! 
+## This is my first basic webscraping project in which I used the Request and Beautiful Soup library to scrape Github!! 
 
 ### Project Outline:
 - We're going to scrape https://github.com/topics
